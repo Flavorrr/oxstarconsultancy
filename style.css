@@ -97,7 +97,7 @@ nav ul li a:hover {
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
                 url('./Oxstar_Project_Images/logo.png');
     background-size: cover;
-    background-position: top;
+    background-position: fit;
     color: white;
     padding: 180px 0 100px;
     text-align: center;
